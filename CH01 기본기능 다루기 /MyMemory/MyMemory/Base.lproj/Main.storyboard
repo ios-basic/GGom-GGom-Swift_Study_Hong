@@ -162,7 +162,7 @@
         <!--상세 화면-->
         <scene sceneID="88w-fZ-gyF">
             <objects>
-                <viewController id="9Iu-yM-taW" userLabel="상세 화면" customClass="MemoReadVC" customModule="MyMemory" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="MemoRead" id="9Iu-yM-taW" userLabel="상세 화면" customClass="MemoReadVC" customModule="MyMemory" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="EBa-oD-HNr">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -204,6 +204,11 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="메모 읽기" id="m3T-vB-JyX"/>
+                    <connections>
+                        <outlet property="contents" destination="xQh-rr-TkI" id="V0p-UW-PcQ"/>
+                        <outlet property="img" destination="g41-pP-519" id="DTd-ZO-aqu"/>
+                        <outlet property="subjects" destination="y1w-P2-qJl" id="QHm-AF-Fpw"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="HHv-yP-dZa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
