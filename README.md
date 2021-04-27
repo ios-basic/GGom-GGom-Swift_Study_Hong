@@ -3,7 +3,7 @@
 ## 계획
 | 날짜 | 주제 | 공부 끝나면 V | 
 | :--: | :--- | :--: |
-| 4/26 | Chapter 01 기본 기능 다루기   | V | 
+| 4/26 | [Chapter 01 기본 기능 다루기](https://github.com/ios-basic/GGom-GGom-Swift_Study_Hong/tree/main/CH01%20%EA%B8%B0%EB%B3%B8%EA%B8%B0%EB%8A%A5%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20/MyMemory/MyMemory)   | V | 
 | 4/27 | Chapter 02 UI 커스터마이징(1)|
 | 4/28 | Chapter 03 UI 커스터마이징(2)|
 | 4/29 | Chapter 03 UI 커스터마이징(2)|
