@@ -70,6 +70,7 @@
 		65454A212639451200E515EF = {
 			isa = PBXGroup;
 			children = (
+				65454A7326397B9200E515EF /* Resources */,
 				65454A2C2639451200E515EF /* Chapter03-TabBar */,
 				65454A2B2639451200E515EF /* Products */,
 			);
@@ -86,7 +87,6 @@
 		65454A2C2639451200E515EF /* Chapter03-TabBar */ = {
 			isa = PBXGroup;
 			children = (
-				65454A7326397B9200E515EF /* Resources */,
 				65454A2D2639451200E515EF /* AppDelegate.swift */,
 				65454A2F2639451200E515EF /* SceneDelegate.swift */,
 				65454A312639451200E515EF /* ViewController.swift */,
