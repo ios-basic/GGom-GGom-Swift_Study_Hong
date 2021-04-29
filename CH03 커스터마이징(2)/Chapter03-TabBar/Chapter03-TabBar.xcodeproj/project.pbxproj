@@ -28,6 +28,7 @@
 		65454A8B26397BB400E515EF /* rss@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 65454A7E26397BB400E515EF /* rss@2x.png */; };
 		65454A8C26397BB400E515EF /* menubar-bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 65454A7F26397BB400E515EF /* menubar-bg.png */; };
 		65454A8D26397BB400E515EF /* google@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 65454A8026397BB400E515EF /* google@2x.png */; };
+		65454A8F263AD15200E515EF /* NewSceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65454A8E263AD15200E515EF /* NewSceneDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		65454A7E26397BB400E515EF /* rss@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rss@2x.png"; sourceTree = "<group>"; };
 		65454A7F26397BB400E515EF /* menubar-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menubar-bg.png"; sourceTree = "<group>"; };
 		65454A8026397BB400E515EF /* google@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "google@2x.png"; sourceTree = "<group>"; };
+		65454A8E263AD15200E515EF /* NewSceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewSceneDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 			children = (
 				65454A2D2639451200E515EF /* AppDelegate.swift */,
 				65454A2F2639451200E515EF /* SceneDelegate.swift */,
+				65454A8E263AD15200E515EF /* NewSceneDelegate.swift */,
 				65454A312639451200E515EF /* ViewController.swift */,
 				65454A412639470B00E515EF /* SecondViewController.swift */,
 				65454A432639472200E515EF /* ThirdViewController.swift */,
@@ -206,6 +209,7 @@
 				65454A422639470B00E515EF /* SecondViewController.swift in Sources */,
 				65454A322639451200E515EF /* ViewController.swift in Sources */,
 				65454A442639472200E515EF /* ThirdViewController.swift in Sources */,
+				65454A8F263AD15200E515EF /* NewSceneDelegate.swift in Sources */,
 				65454A2E2639451200E515EF /* AppDelegate.swift in Sources */,
 				65454A302639451200E515EF /* SceneDelegate.swift in Sources */,
 			);
