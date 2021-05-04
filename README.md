@@ -8,7 +8,7 @@
 | 4/28 | [Chapter 02 UI 커스터마이징(1)](https://github.com/ios-basic/GGom-GGom-Swift_Study_Hong/tree/main/CH02%20%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95(1))| ✅ |
 | 4/29 | [Chapter 03 UI 커스터마이징(2)](https://github.com/ios-basic/GGom-GGom-Swift_Study_Hong/tree/main/CH03%20%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95(2))| ✅ |
 | 4/30 | [Chapter 03 UI 커스터마이징(2)](https://github.com/ios-basic/GGom-GGom-Swift_Study_Hong/tree/main/CH03%20%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95(2)/Chapter03-NavigationBar)| ✅ | 
-| 5/01| Chapter 03 UI 커스터마이징(2)| 
+| 5/01| [Chapter 03 UI 커스터마이징(2)](https://github.com/ios-basic/GGom-GGom-Swift_Study_Hong/tree/main/CH03%20%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95(2))| ✅ |
 | 5/02 | Chapter 04 사이드 바 메뉴 구현 |
 | 5/03 | Chapter 04 사이드 바 메뉴 구현 |
 | 5/04 | Chapter 05 데이터 저장(1) - 프로퍼티 리스트|
