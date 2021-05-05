@@ -11,6 +11,18 @@
 		651FCB14264151A000ED8B0D /* button-bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 651FCB13264151A000ED8B0D /* button-bg.png */; };
 		651FCB162641568100ED8B0D /* memo-background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 651FCB152641568100ED8B0D /* memo-background@2x.png */; };
 		651FCB182641606400ED8B0D /* warning-icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 651FCB172641606400ED8B0D /* warning-icon-60@2x.png */; };
+		65D22228264222C200E945E1 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 65D22227264222C200E945E1 /* SWRevealViewController.m */; };
+		65D222322642236400E945E1 /* icon04.png in Resources */ = {isa = PBXBuildFile; fileRef = 65D222292642236400E945E1 /* icon04.png */; };
+		65D222332642236400E945E1 /* icon05.png in Resources */ = {isa = PBXBuildFile; fileRef = 65D2222A2642236400E945E1 /* icon05.png */; };
+		65D222342642236400E945E1 /* icon01.png in Resources */ = {isa = PBXBuildFile; fileRef = 65D2222B2642236400E945E1 /* icon01.png */; };
+		65D222352642236400E945E1 /* icon02.png in Resources */ = {isa = PBXBuildFile; fileRef = 65D2222C2642236400E945E1 /* icon02.png */; };
+		65D222362642236400E945E1 /* account@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 65D2222D2642236400E945E1 /* account@2x.jpg */; };
+		65D222372642236400E945E1 /* profile-bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 65D2222E2642236400E945E1 /* profile-bg.png */; };
+		65D222382642236400E945E1 /* icon03.png in Resources */ = {isa = PBXBuildFile; fileRef = 65D2222F2642236400E945E1 /* icon03.png */; };
+		65D222392642236400E945E1 /* icon06.png in Resources */ = {isa = PBXBuildFile; fileRef = 65D222302642236400E945E1 /* icon06.png */; };
+		65D2223A2642236400E945E1 /* sidemenu.png in Resources */ = {isa = PBXBuildFile; fileRef = 65D222312642236400E945E1 /* sidemenu.png */; };
+		65D2223C264227B300E945E1 /* SideBarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D2223B264227B300E945E1 /* SideBarVC.swift */; };
+		65D2223E264234FC00E945E1 /* ProfileVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D2223D264234FC00E945E1 /* ProfileVC.swift */; };
 		65FBF6792636BD7300E156B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65FBF6782636BD7300E156B9 /* AppDelegate.swift */; };
 		65FBF67B2636BD7300E156B9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65FBF67A2636BD7300E156B9 /* SceneDelegate.swift */; };
 		65FBF67D2636BD7300E156B9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65FBF67C2636BD7300E156B9 /* ViewController.swift */; };
@@ -31,6 +43,20 @@
 		651FCB13264151A000ED8B0D /* button-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button-bg.png"; sourceTree = "<group>"; };
 		651FCB152641568100ED8B0D /* memo-background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "memo-background@2x.png"; sourceTree = "<group>"; };
 		651FCB172641606400ED8B0D /* warning-icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "warning-icon-60@2x.png"; sourceTree = "<group>"; };
+		65D22225264222C100E945E1 /* MyMemory-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MyMemory-Bridging-Header.h"; sourceTree = "<group>"; };
+		65D22226264222C200E945E1 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
+		65D22227264222C200E945E1 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
+		65D222292642236400E945E1 /* icon04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon04.png; sourceTree = "<group>"; };
+		65D2222A2642236400E945E1 /* icon05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon05.png; sourceTree = "<group>"; };
+		65D2222B2642236400E945E1 /* icon01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon01.png; sourceTree = "<group>"; };
+		65D2222C2642236400E945E1 /* icon02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon02.png; sourceTree = "<group>"; };
+		65D2222D2642236400E945E1 /* account@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "account@2x.jpg"; sourceTree = "<group>"; };
+		65D2222E2642236400E945E1 /* profile-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "profile-bg.png"; sourceTree = "<group>"; };
+		65D2222F2642236400E945E1 /* icon03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon03.png; sourceTree = "<group>"; };
+		65D222302642236400E945E1 /* icon06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon06.png; sourceTree = "<group>"; };
+		65D222312642236400E945E1 /* sidemenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sidemenu.png; sourceTree = "<group>"; };
+		65D2223B264227B300E945E1 /* SideBarVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideBarVC.swift; sourceTree = "<group>"; };
+		65D2223D264234FC00E945E1 /* ProfileVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileVC.swift; sourceTree = "<group>"; };
 		65FBF6752636BD7300E156B9 /* MyMemory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyMemory.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65FBF6782636BD7300E156B9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65FBF67A2636BD7300E156B9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,12 +105,16 @@
 		65FBF6772636BD7300E156B9 /* MyMemory */ = {
 			isa = PBXGroup;
 			children = (
+				65D22226264222C200E945E1 /* SWRevealViewController.h */,
+				65D22227264222C200E945E1 /* SWRevealViewController.m */,
 				65FBF6782636BD7300E156B9 /* AppDelegate.swift */,
 				65FBF67A2636BD7300E156B9 /* SceneDelegate.swift */,
 				65FBF67C2636BD7300E156B9 /* ViewController.swift */,
 				65FBF6912636EE0500E156B9 /* MemoListVC.swift */,
 				65FBF6942636EE2A00E156B9 /* MemoFormVC.swift */,
 				65FBF6972636EE4000E156B9 /* MemoReadVC.swift */,
+				65D2223B264227B300E945E1 /* SideBarVC.swift */,
+				65D2223D264234FC00E945E1 /* ProfileVC.swift */,
 				65FBF69A2636EF7800E156B9 /* MemoCell.swift */,
 				65FBF69D2636F02F00E156B9 /* MemoData.swift */,
 				651FCB112641501400ED8B0D /* CSLogButton.swift */,
@@ -93,6 +123,7 @@
 				65FBF6862636BD7400E156B9 /* LaunchScreen.storyboard */,
 				65FBF6892636BD7400E156B9 /* Info.plist */,
 				65FBF6812636BD7300E156B9 /* MyMemory.xcdatamodeld */,
+				65D22225264222C100E945E1 /* MyMemory-Bridging-Header.h */,
 			);
 			path = MyMemory;
 			sourceTree = "<group>";
@@ -104,6 +135,15 @@
 				65FBF6A126379D6D00E156B9 /* fountainpen@2x.png */,
 				651FCB152641568100ED8B0D /* memo-background@2x.png */,
 				651FCB172641606400ED8B0D /* warning-icon-60@2x.png */,
+				65D2222D2642236400E945E1 /* account@2x.jpg */,
+				65D2222B2642236400E945E1 /* icon01.png */,
+				65D2222C2642236400E945E1 /* icon02.png */,
+				65D2222F2642236400E945E1 /* icon03.png */,
+				65D222292642236400E945E1 /* icon04.png */,
+				65D2222A2642236400E945E1 /* icon05.png */,
+				65D222302642236400E945E1 /* icon06.png */,
+				65D2222E2642236400E945E1 /* profile-bg.png */,
+				65D222312642236400E945E1 /* sidemenu.png */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -139,6 +179,7 @@
 				TargetAttributes = {
 					65FBF6742636BD7300E156B9 = {
 						CreatedOnToolsVersion = 12.4;
+						LastSwiftMigration = 1250;
 					};
 				};
 			};
@@ -165,13 +206,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65D222362642236400E945E1 /* account@2x.jpg in Resources */,
+				65D222372642236400E945E1 /* profile-bg.png in Resources */,
 				65FBF6882636BD7400E156B9 /* LaunchScreen.storyboard in Resources */,
+				65D222332642236400E945E1 /* icon05.png in Resources */,
 				651FCB14264151A000ED8B0D /* button-bg.png in Resources */,
+				65D222322642236400E945E1 /* icon04.png in Resources */,
 				65FBF6852636BD7400E156B9 /* Assets.xcassets in Resources */,
 				65FBF6A226379D6D00E156B9 /* fountainpen@2x.png in Resources */,
 				651FCB162641568100ED8B0D /* memo-background@2x.png in Resources */,
+				65D2223A2642236400E945E1 /* sidemenu.png in Resources */,
+				65D222392642236400E945E1 /* icon06.png in Resources */,
+				65D222382642236400E945E1 /* icon03.png in Resources */,
+				65D222352642236400E945E1 /* icon02.png in Resources */,
 				65FBF6802636BD7300E156B9 /* Main.storyboard in Resources */,
 				651FCB182641606400ED8B0D /* warning-icon-60@2x.png in Resources */,
+				65D222342642236400E945E1 /* icon01.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -187,9 +237,12 @@
 				65FBF6952636EE2A00E156B9 /* MemoFormVC.swift in Sources */,
 				65FBF67D2636BD7300E156B9 /* ViewController.swift in Sources */,
 				65FBF6792636BD7300E156B9 /* AppDelegate.swift in Sources */,
+				65D2223C264227B300E945E1 /* SideBarVC.swift in Sources */,
 				65FBF67B2636BD7300E156B9 /* SceneDelegate.swift in Sources */,
 				651FCB122641501400ED8B0D /* CSLogButton.swift in Sources */,
+				65D2223E264234FC00E945E1 /* ProfileVC.swift in Sources */,
 				65FBF69E2636F02F00E156B9 /* MemoData.swift in Sources */,
+				65D22228264222C200E945E1 /* SWRevealViewController.m in Sources */,
 				65FBF6982636EE4000E156B9 /* MemoReadVC.swift in Sources */,
 				65FBF69B2636EF7800E156B9 /* MemoCell.swift in Sources */,
 			);
@@ -338,6 +391,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = B434W34DLF;
 				INFOPLIST_FILE = MyMemory/Info.plist;
@@ -347,6 +401,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "kr.ac.kpu.-.MyMemory";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "MyMemory/MyMemory-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -357,6 +413,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = B434W34DLF;
 				INFOPLIST_FILE = MyMemory/Info.plist;
@@ -366,6 +423,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "kr.ac.kpu.-.MyMemory";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "MyMemory/MyMemory-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
